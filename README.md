@@ -19,5 +19,5 @@ Various machine learning models, including Linear Regression, Decision Tree, Ada
 ## Model Evaluation
 The performance of each model was evaluated using metrics such as Mean Squared Error (MSE), Mean Absolute Error (MAE), and R2 Score to identify the most effective model for accurate house price prediction. Additionally, K-Fold Cross Validation was employed to measure the accuracy of the Linear Regression model. This comprehensive evaluation approach aimed to identify the most effective model for precise and reliable house price predictions.
 
-## conclusion
+## Conclusion
 In conclusion, the comprehensive analysis and refinement processes, including data cleaning, feature engineering, and outlier removal, laid a robust foundation for the machine learning models. The diverse set of models, ranging from Linear Regression to ensemble methods, underwent thorough evaluation using various metrics and K-Fold Cross Validation. The selected model, backed by meticulous evaluation, stands poised to offer accurate and reliable predictions, empowering stakeholders with valuable insights into Bengaluru house prices.
