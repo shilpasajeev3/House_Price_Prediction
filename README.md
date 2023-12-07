@@ -4,5 +4,4 @@ Accurately predicting house prices is crucial for both buyers and sellers in the
 ## Data Cleaning
 In the data cleaning phase, several key steps were undertaken to enhance the dataset's quality and relevance:
 
-• ### Dropping Less Relevant Features: 
-Non-contributory features were dropped from the dataset to streamline and focus the analysis.
+• Dropping Less Relevant Features: Non-contributory features were dropped from the dataset to streamline and focus the analysis.
